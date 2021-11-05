@@ -1,0 +1,18 @@
+.container {
+    background-color: aquamarine;
+}
+.text-header {
+    color: #5a3733;
+    font-family: Open Sans,sans-serif;
+    font-size: 19px;
+}
+.burger-meny {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.honey-bee {
+     color: #5a3733;
+    font-family: Times New Roman;
+    font-size: 30px;
+}
