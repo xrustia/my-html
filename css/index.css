@@ -1,6 +1,4 @@
-.container {
-    background-color: aquamarine;
-}
+
 .text-header {
     color: #5a3733;
     font-family: Open Sans,sans-serif;
@@ -11,8 +9,40 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
 .honey-bee {
-     color: #5a3733;
+    color: #5a3733;
     font-family: Times New Roman;
     font-size: 30px;
+   }
+.block {
+    height: 1200px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+    background: url('../honey-bacgraund.jpg');
+}
+.body {
+    padding: 30px;
+}
+.organic-honey {
+    text-align: left;
+    color: #eb6d2f!important;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: .1em;
+    padding: auto;
+    margin: 10px;
+    font-family: "Open Sans", sans-serif;
+}
+.paragraf {
+    font-size: 110px;
+    color: #5a3733;
+    font-family: Open Sans;
+}
+.text-honey {
+     text-align: left;
+     color: rgb(65,57,57);
+     margin: 10px;
+     font-family: 'Open Sans',sans-serif;
+     font-size: 18px;
 }
