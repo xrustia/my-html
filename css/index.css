@@ -46,3 +46,14 @@
      font-family: 'Open Sans',sans-serif;
      font-size: 18px;
 }
+.clock {
+    text-align: center;
+    color: brown;
+    height: 55px;
+    font-size: 45px;
+}
+.countdown {
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 40px;
+}
