@@ -20,6 +20,7 @@
     border-radius: 15px;
     box-shadow: 0 0 10px #000;
     background: url('../honey-bacgraund.jpg');
+    margin: 30px;
 }
 .body {
     padding: 30px;
@@ -57,3 +58,23 @@
     color: cornflowerblue;
     font-size: 40px;
 }
+.products {
+    text-align: center;
+    margin: 30px;
+    padding: 350px;
+    padding-right: 1500px;
+    float: center;
+    width: 120px;
+    height: 120px;
+    
+    
+  }
+.block-two {
+    height: 1700px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+    background: url('../bacgraund-more.jpg');
+    margin: 30px;
+
+}
+
